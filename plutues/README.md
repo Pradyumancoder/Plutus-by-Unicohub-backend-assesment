@@ -33,7 +33,8 @@ File Structure
 ![Screenshot_20230217_143824](https://user-images.githubusercontent.com/97114184/219614870-94218ba8-e9d9-47df-bc2f-130f2f832c2a.png)[code-structure]
 
 POST /user
-![Screenshot (7)](https://user-images.githubusercontent.com/97114184/219617523-db9d7737-33a2-4e7e-8036-f8396bc44fd2.png)[post/user]
+![Screenshot (13)](https://user-images.githubusercontent.com/97114184/219619027-42af81c3-5b65-4b96-bfe9-5b7007d477ea.png)
+[post/user]
 
 GET /user
 ![Screenshot (11)](https://user-images.githubusercontent.com/97114184/219614864-55036536-cff9-4944-8d23-5c968cc8dd83.png)[get/user]
