@@ -29,21 +29,21 @@ API Endpoints
 POST /user
 Creates a new user in the database.
 
-{
-  "_id": "60b3c0ee3f9b9c3f3c3cb3d4",
-  "name": "John Doe",
-  "email": "johndoe@example.com",
-  "password": "mypassword",
-  "createdAt": "2021-05-30T20:50:54.468Z",
-  "updatedAt": "2021-05-30T20:50:54.468Z",
-  "__v": 0
-}
+
 GET /user
 Returns information about the current user.
 
 Response:
+POST /post
 
 GET /post
-Returns all posts saved in the database, along with the number of likes for each post.
 
+Returns all posts saved in the database, along with the number of likes for each post.
 Response:
+
+POST/likes
+
+
+GET/famous
+
+
