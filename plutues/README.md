@@ -24,9 +24,7 @@ SMTP_PORT=587
 SMTP_SERVICE=gmail
 SMTP_MAIL=youremail@gmail.com
 SMTP_PASSWORD=yourpassword
-Start the server: npm start
-
-API Endpoints
+Start the server: npm run dev
 
 Creates a new user in the database.
 
