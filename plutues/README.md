@@ -1,11 +1,4 @@
 
-![Screenshot (7)](https://user-images.githubusercontent.com/97114184/219614847-0f0c4e1e-3635-48c2-b59a-9adc9be9d30f.png)[post/post]
-![Screenshot (8)](https://user-images.githubusercontent.com/97114184/219614851-b90a5c6e-4d98-445f-b9e8-9c711813eec6.png)[get/post]
-![Screenshot (9)](https://user-images.githubusercontent.com/97114184/219614854-d652b35e-d1c7-4293-9b99-2ea3676be734.png)[post/likes]
-![Screenshot (10)](https://user-images.githubusercontent.com/97114184/219614859-5cf4bef1-3483-4bf5-91c5-f20a8c2602f5.png)[get/famous]
-![Screenshot (11)](https://user-images.githubusercontent.com/97114184/219614864-55036536-cff9-4944-8d23-5c968cc8dd83.png)[get/user]
-![Screenshot_20230217_143824](https://user-images.githubusercontent.com/97114184/219614870-94218ba8-e9d9-47df-bc2f-130f2f832c2a.png)[code-structure]
-![Screenshot_20230217_153156](https://user-images.githubusercontent.com/97114184/219614875-1376cc3c-e52d-4cec-8c34-9f93222c1091.png)[sent-email]
 # Plutus-by-Unicohub-backend-assesment
 <h1>Explanation</h1>
 NodeJS Server with Express and MongoDB
